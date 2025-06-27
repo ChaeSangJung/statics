@@ -19,7 +19,7 @@ ggplot(data = dat1) +
 # transp_factor <- as.factor(transp)
 # summary(transp_factor)
 # barplot(summary(transp_factor))
-
+그()
 # 데이터 입력
 obesity <- factor(
   c("underweight", "normal", "overweight", "obese"),
